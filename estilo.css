@@ -54,6 +54,7 @@ img {
     height: fit-content;
     margin: 0px;
     display: block;
+    justify-content: center;
     
 
 }
